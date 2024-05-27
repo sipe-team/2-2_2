@@ -1,10 +1,13 @@
 # 개발자도 어차피 생산직이다 생성형 AI를 통해 컨텐츠 생성하기
 
+## 팀 이름
+**Al-Jal-Ddak**
+
 ## 팀 소개
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" valign="top" width="20%"><a href="https://github.com/seokzin"><img src="https://avatars.githubusercontent.com/u/43740455?v=4" alt=""/><br /><p><b>소석진</b></p></a><small></small></td>
+    <td align="center" valign="top" width="20%"><a href="https://github.com/jungyoonoh"><img src="https://avatars.githubusercontent.com/u/29244603?v=4" alt=""/><br /><p><b>정윤오</b></p></a><small></small></td>
     <td align="center" valign="top" width="20%"><a href="https://github.com/IGhost-P"><img src="https://avatars.githubusercontent.com/IGhost-P" alt=""/><br /><p><b>양상우</b></p></a><small></small></td>
     <td align="center" valign="top" width="20%"><a href="https://github.com/stae1102"><img src="https://avatars.githubusercontent.com/u/83271772?v=4" alt=""/><br /><p><b>이성태</b></p></a><small></small></td>
     <td align="center" valign="top" width="20%"><a href="https://github.com/leeceo97"><img src="https://avatars.githubusercontent.com/u/63772619?v=4" alt=""/><br /><p><b>이형준</b></p></a><small></small></td>
