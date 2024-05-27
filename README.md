@@ -7,7 +7,7 @@
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" valign="top" width="20%"><a href="https://github.com/jungyoonoh"><img src="https://avatars.githubusercontent.com/u/29244603?v=4" alt=""/><br /><p><b>정윤오</b></p></a><small></small></td>
+    <td align="center" valign="top" width="20%"><a href="https://github.com/jungyoonoh"><img src="https://avatars.githubusercontent.com/u/29244603?v=4" alt=""/><br /><p><b>정윤오</b></p></a><small>AI 유튜브 컨텐츠 제작</small></td>
         <td align="center" valign="top" width="20%"><a href="https://github.com/IGhost-P"><img src="https://avatars.githubusercontent.com/u/79236624?v=4" alt=""/><br /><p><b>양상우</b></p></a><small></small></td>
     <td align="center" valign="top" width="20%"><a href="https://github.com/Donghyeon0908"><img src="https://avatars.githubusercontent.com/u/101446818?v=4" alt=""/><br /><p><b>이동현</b></p></a><small></small></td>
     <td align="center" valign="top" width="20%"><a href="https://github.com/jun108059"><img src="https://avatars.githubusercontent.com/u/42997924?v=4" alt=""/><br /><p><b>박영준</b></p></a><small></small></td>
